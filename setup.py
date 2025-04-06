@@ -13,7 +13,14 @@ setup(
         "pandas",
         "requests",
         "matplotlib"
-    ]
+        "kagglehub",
+        "seaborn",
+        "numpy",
+        "plotly",
+        "plotly_express",
+        "plotly.graph_objects",
+        "os",
+        ]
     
     
 )
